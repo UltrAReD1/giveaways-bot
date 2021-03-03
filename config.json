@@ -1,6 +1,6 @@
 {
-    "token": "Your Discord Bot token",
-    "prefix": "g!",
-    "everyoneMention": true,
+    "token": "ODA3NzU2OTIzMDg4Nzk3NzI2.YB8oQQ.G4DBZgHqpGgzi2yxbrJpKrVBM3M",
+    "prefix": "!g",
+    "everyoneMention": false,
     "hostedBy": true
 }
